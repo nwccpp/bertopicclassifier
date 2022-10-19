@@ -25,12 +25,12 @@ ayse [dot] lokmanoglu [at] northwestern [dot] edu
 
 ### Russian State Sponsored News
 State sponsored media list
-- https://www.rt.com/
-- https://sputniknews.com/
+- rt.com/
+- sputniknews.com/
 - globalresearch.ca
-- https://en.news-front.info/
-- https://www.strategic-culture.org/
-- http://oneworld.press/
+- en.news-front.info/
+- strategic-culture.org/
+- oneworld.press/
 
 Load the packages
 ```{r}
