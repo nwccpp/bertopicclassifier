@@ -6,7 +6,7 @@
 
 Following files are in the repository:
 - [Newswhip Pull]() R Studio
-- [Scraping]() Python
+- [Scraping](https://github.com/nwccpp/bertopicclassifier/blob/main/bert_russia_scrape.py) Python
 - [Bertopic and Outlier Iteration](https://github.com/nwccpp/bertopicclassifier/blob/main/BERTopic_Russia_Base_Outlier_Iteration_Github.ipynb) Python
 - [Classifier Fit and Test](https://github.com/nwccpp/bertopicclassifier/blob/main/Classifer_Training_Github.ipynb) Python
 - [Classifer]() Python
